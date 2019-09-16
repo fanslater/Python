@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<kcbpspd>
+  <program acm="public" cache="yes" comment="" concurrence="-1" module="" name="L2624434" node="0" path="" perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST" />
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  
+  <program acm="public" cache="yes" comment="" concurrence="-1" name="L2610412" path="KBSS_OTCTS.DLL" module="LBM_ListStaffInfo" node="0" priority="1" rsl="1" timeout="60" type="biz" userexitnumber="10" xa="0"/>
+  <program acm="public" cache="yes" comment="" concurrence="-1" name="L2610412" path="KBSS_OTCTS.DLL" module="LBM_ListStaffInfo" node="0" priority="1" rsl="1" timeout="60" type="biz" userexitnumber="10" xa="0"/>
+  
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <program acm="public" cache="yes" comment="" concurrence="-1" name="L2610413" path="KBSS_OTCTS.DLL" module="LBM_SetOtcStaffInfo" node="0" priority="1" rsl="1" timeout="60" type="biz" userexitnumber="10" xa="0"/>
+  <program acm="public" cache="yes" comment="" concurrence="-1" name="L2610413" path="KBSS_OTCTS.DLL" module="LBM_SetOtcStaffInfo" node="0" priority="1" rsl="1" timeout="60" type="biz" userexitnumber="10" xa="0"/>  
+  <program acm="public" cache="yes" comment="" concurrence="-1" module="LBM_lstPushletMsg" name="L1000019" node="0" path="KBSS_BASE.dll" priority="1" rsl="1" timeout="60" type="biz" userexitnumber="10" xa="0" />
+</kcbpspd> 

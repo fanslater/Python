@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kcbpspd>  
+  <!--测试 TestKCBPXA 模拟登陆LBM和回调LBM -->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!-- 20190514-PUSHLET_MSG -->
+  <program acm="public" cache="yes" comment="" concurrence="-1" module="LBM_MdfPushletMsg" name="L1000018" node="0" path="KBSS_BASE.dll" priority="1" rsl="1" timeout="60" type="biz" userexitnumber="10" xa="0" />
+  <!--LBM_XaccHttp-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <program acm="public" cache="yes" comment="" concurrence="-1" module="" name="L2624434" node="0" path="" perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST" />
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L0000507" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <program acm="public" cache="yes" comment="" concurrence="-1" module="LBM_ListStaffInfo" name="L2610412" node="0" path="KBSS_OTCTS.DLL" priority="1" rsl="1" timeout="60" type="biz" userexitnumber="10" xa="0" />
+  <!--<program acm="public" cache="yes" comment="" concurrence="-1" name="L2620340" path="" module="" node="0"  perfmon="no" priority="1" rsl="1" timeout="60" type="deputy" userexitnumber="" xa="TEST"/>-->
+  <program acm="public" cache="yes" comment="" concurrence="-1" module="LBM_SetOtcStaffInfo" name="L2610413" node="0" path="KBSS_OTCTS.DLL" priority="1" rsl="1" timeout="60" type="biz" userexitnumber="10" xa="0" />
+  <program acm="public" cache="yes" comment="" concurrence="-1" module="LBM_lstPushletMsg" name="L1000019" node="0" path="KBSS_BASE.dll" priority="1" rsl="1" timeout="60" type="biz" userexitnumber="10" xa="0" />
+</kcbpspd>
